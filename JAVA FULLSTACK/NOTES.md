@@ -1,0 +1,1 @@
+front end 	react js, angular js.backend 	Spring bootdata base 	MySQL,GiTLAB.comBootstrap = predefined classes of CSS### ### variables and datatypes### conditional constructors### loops### arrays### functions### Objects

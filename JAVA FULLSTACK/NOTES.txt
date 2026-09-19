@@ -1,0 +1,9 @@
+front end 
+	react js, angular js.
+backend 
+	Spring boot
+data base
+	MySQL, 
+
+GiTLAB.com
+
